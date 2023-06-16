@@ -1366,7 +1366,7 @@ blockquote.style2:after {
 }
 
 .mini-cart .count {
-    background-color: #cb2129;
+    background-color: #817f7f;
     border-radius: 50%;
     color: #fff;
     font-size: 10px;
@@ -1683,7 +1683,7 @@ blockquote.style2:after {
 /* HEADER STYLE 3 */
 
 .header.style3 .logo {
-    padding-top: 18px;
+    padding-top: 50px;
 }
 
 .header.style3 .top-header {
@@ -4909,7 +4909,7 @@ font-family: 'AkzidenzGrotesk';
     content: '';
     width: 50px;
     height: 2px;
-    background-color: #cb2129;
+    background-color: #817f7f;
     display: block;
     margin: 0 auto;
     margin-top: 5px;
@@ -5579,7 +5579,7 @@ font-family: 'AkzidenzGrotesk';
     width: 0px;
     height: 2px;
     display: block;
-    background-color: #cb2129;
+    background-color: #817f7f;
     margin: 0 auto;
     margin-top: 8px;
     content: '';
@@ -7869,7 +7869,7 @@ font-family: 'AkzidenzGrotesk';
     right: 10px;
     bottom: 70px;
     border-radius: 50%;
-    background-color: #cb2129;
+    background-color: #817f7f;
     display: none;
     color: #fff;
     text-align: center;
@@ -9436,7 +9436,7 @@ RESPONSIVE
     background-color: #fff;
     border: 1px solid #333;
     border-left: 0;
-    color: #cb2129;
+    color: #817f7f;
     padding: 11px 15px 13px;
     font-size: 14px;
     margin-top: 15px;
@@ -9464,7 +9464,7 @@ RESPONSIVE
 
 li.info-pts {
     border-radius: 25px;
-    background-color: #cb2129;
+    background-color: #817f7f;
     padding: 11px 18px;
     background-repeat: no-repeat;
     background-position: top left;
