@@ -256,7 +256,7 @@ input[type="submit"] {
     transition: all 0.3s ease 0s;
     background: transparent;
     position: relative;
-    background-color: #074897;
+    background-color: #333;
     font-size: 12px;
     border: none;
     font-weight: 600;
@@ -264,7 +264,7 @@ input[type="submit"] {
 
 .button:hover,
 input[type="submit"]:hover {
-    background-color: #074897;
+    background-color: #333;
     color: #fff;
 }
 
@@ -1002,7 +1002,7 @@ blockquote.style2:after {
 }
 
 .main-menu > li > a:hover {
-    color: #074897;
+    color: #333;
 }
 
 .main-menu > li > a:before {
@@ -2892,7 +2892,7 @@ PRODUCT
 }
 
 .product-item .price {
-    color: #074897;
+    color: #333;
     display: block;
     font-size: 1.6rem;
     /*	margin-bottom: 5px;*/
@@ -3106,9 +3106,9 @@ DS .product-list .product-item {
 }
 
 .product-item.style3 .add_to_cart_button:hover {
-    background-color: #074897;
+    background-color: #333;
     color: #fff;
-    border-color: #074897;
+    border-color: #333;
 }
 
 .product-item.style3 .wishlist:hover,
@@ -3548,7 +3548,7 @@ DS .product-list .product-item {
 }
 
 .widget ul li a {
-    color: #074897;
+    color: #333;
 }
 
 .widget_product_categories li,
@@ -3608,7 +3608,7 @@ DS .product-list .product-item {
 .tagcloud .activo,
 .tagcloud a:hover {
     color: #fff;
-    background-color: #074897;
+    background-color: #333;
 }
 
 .widget_price_filter .price_slider_wrapper {
@@ -5697,7 +5697,7 @@ font-family: 'AkzidenzGrotesk';
 
 .banner-text .button {
     margin-top: 35px;
-    background-color: #074897;
+    background-color: #333;
     color: #fff;
     font-size: 13px;
     text-transform: uppercase;
@@ -6293,7 +6293,7 @@ font-family: 'AkzidenzGrotesk';
     clear: left;
     padding: 16px 33px;
     font-size: 14px;
-    background: #074897;
+    background: #333;
 }
 
 .product-details-right .quantity {
@@ -9351,7 +9351,7 @@ RESPONSIVE
 }
 
 .basket {
-    background: #074897;
+    background: #333;
     border-radius: 100%;
     height: 24px;
     line-height: 24px;
@@ -9445,11 +9445,11 @@ RESPONSIVE
 
 .favorito:hover {
     color: #fff;
-    background: #074897;
+    background: #333;
 }
 
 .style-10 {
-    background: #074897;
+    background: #333;
 }
 
 .style-11 {
@@ -9488,7 +9488,7 @@ li.info-pts {
 }
 
 .color-verde {
-    color: #074897;
+    color: #333;
 }
 
 .mrg-0 {
@@ -9583,7 +9583,7 @@ li.info-pts {
     left: 0;
     width: auto;
     text-align: center;
-    background-color: #074897;
+    background-color: #333;
     color: #fff;
     -webkit-border-radius: 50%;
     -moz-border-radius: 50%;
